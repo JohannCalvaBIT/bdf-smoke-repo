@@ -1,0 +1,2 @@
+fecha,proyecto,cambio,guardrail,herramienta,tiempo_estimado_min,tiempo_real_min,ahorro_min,resultado,observaciones
+2026-10-05,IA-Champions-sandbox,demo-hola,G-GLOBAL-07,bit-stub,1,1,0,OK,dato_sintetico_stub_no_medido(rol=Developer Backend;actividad=smoke test)
